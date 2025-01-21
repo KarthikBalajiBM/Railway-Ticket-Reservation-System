@@ -1,3 +1,9 @@
+"""
+Railway Ticket Reservation System
+Author: Karthik Balaji
+Description: A program to manage railway ticket bookings, cancellations, and seat allocations.
+"""
+
 class Passenger:
     def __init__(self,name,age,gender,berth):
         self.name=name
